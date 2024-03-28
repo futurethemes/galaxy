@@ -5,7 +5,7 @@
 [See the theme here](https://galaxy.futurethemes.io)
 
 This is a boilerplate for the Galaxy Theme by
-FutureThemes.
+FutureThemes using AstroJS.
 
 It contains a minimal setup for you to get started
 creating your own perfect site!
@@ -13,7 +13,12 @@ creating your own perfect site!
 It comes with Tailwind and Galaxy pre-installed
 and configured.
 
-So fork, have fun and make the web beautiful!
+To get started you can use this as a template when
+you create an Astro project:
+
+```bash
+pnpm create astro@latest --template @futurethemes/galaxy
+```
 
 Any queries please create an issue
 or email [support@futurethemes.io](mailto:support@futurethemes.io)

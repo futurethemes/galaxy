@@ -16,6 +16,8 @@ blog, landing page. Explore the main features:
 - **Markdown/MDX Support**: Galaxy primarily uses `.mdx` files for all it's content. Meaning you can get started asap!
 - **Extensive Configuration options**: Customise all your navigation, your logos, your page descriptions and even the default star speed - right from your `astro.config.mjs`!
 - **SEO Support**: Built-in SEO support for every page of your site using [Astro-SEO](https://github.com/jonasmerlin/astro-seo).
+- **Get started for free**: All FutureThemes themes have a generous free-tier for personal
+or hobby sites that is free to use forever!
 
 This is a boilerplate for the Galaxy Theme by
 FutureThemes using AstroJS.
@@ -26,6 +28,8 @@ creating your own perfect site!
 It comes with Tailwind and Galaxy pre-installed
 and configured.
 
+## Get Started
+
 To get started you can use this as a template when
 you create an Astro project:
 
@@ -34,6 +38,8 @@ pnpm create astro@latest --template futurethemes/galaxy
 ```
 
 ## Commands
+
+> 👉 FutureThemes recommends `pnpm` over `npm`, but works perfectly with both!
 
 All commands are run from the root of the project, from a terminal:
 

@@ -12,8 +12,8 @@ dependencies:
     specifier: ^5.1.0
     version: 5.1.0(astro@4.5.10)(tailwindcss@3.4.3)
   '@futurethemes/galaxy':
-    specifier: ^1.0.3
-    version: 1.0.3(typescript@5.4.3)(zod@3.22.4)
+    specifier: ^1.0.6
+    version: 1.0.6(typescript@5.4.3)(zod@3.22.4)
   astro:
     specifier: ^4.5.10
     version: 4.5.10(@types/node@20.11.30)(typescript@5.4.3)
@@ -870,8 +870,8 @@ packages:
     dev: false
     optional: true
 
-  /@futurethemes/galaxy@1.0.3(typescript@5.4.3)(zod@3.22.4):
-    resolution: {integrity: sha512-h68Ava9w3N4ILNVGzq7nS7Wh8U8A9gd/mQwA6q5cceSzbMaiYmu9iwJ2/jkatn4SAzlGwBIOhjkbjLfbS8RA5g==}
+  /@futurethemes/galaxy@1.0.6(typescript@5.4.3)(zod@3.22.4):
+    resolution: {integrity: sha512-T92YXFkpGdrtKqXvvJgn1ZZT+3fJcXu8TnbTEVAbv8cDNpxQYd2LF4+BAN5zJydHxXHAPRHNMigLYZNfOf4Fww==}
     peerDependencies:
       '@emailjs/browser': ^4.3.1
       '@sendgrid/mail': ^8.1.1
